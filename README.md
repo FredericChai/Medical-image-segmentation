@@ -10,7 +10,7 @@ It implements popular models in medical image analysis.  The original dataset is
 
 ## Results
 Sample result from Unet
-![image](https://github.com/FredericChai/Medical-image-segmentation/blob/main/Medical_Image_Segmentation/sample/2.png)
+![image](https://github.com/FredericChai/Medical-image-segmentation/blob/main/Medical_Image_Segmentation/sample/sample/2.png)
 
 Semantic segmentation on ISIC2016
 |     Models     | Dice ↓ (%) |
