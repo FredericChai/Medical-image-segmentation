@@ -1,0 +1,5 @@
+average_dice:0.8931215073145398
+average_jaccard:0.9488018919190456
+average_accuracy:0.9488018919190456
+average_sensitivity:0.9176735206941802
+average_specificity:0.8936813342124168
